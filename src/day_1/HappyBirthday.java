@@ -6,5 +6,6 @@ public class HappyBirthday {
         // celebrate birthday for B17/18
         System.out.println("Happy Birthday B17 B18"); 
         System.out.println("this line added from Github");
+        System.out.println("Another line added from Github"); 
     }
 }
